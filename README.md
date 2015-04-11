@@ -1,1 +1,3 @@
-ini adalah contoh package meteor
+# meteor-errors
+sample package meteor
+
